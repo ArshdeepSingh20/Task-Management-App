@@ -4,7 +4,8 @@
 	"main": "server.js",
 	"license": "MIT",
 	"dependencies": {
-		"concurrently": "^8.2.0"
+		"concurrently": "^8.2.0",
+		"yarn": "^1.22.19"
 	},
 	"scripts": {
 		"client": "yarn --cwd client dev",
